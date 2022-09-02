@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".virtualbeacons.MainActivity">
+
+    <item
+        android:id ="@+id/action_restart_server"
+        android:orderInCategory="200"
+        android:title="@string/settings_restart_server"
+        />
+
+</menu>

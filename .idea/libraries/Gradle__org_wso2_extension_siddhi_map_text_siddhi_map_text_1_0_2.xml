@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wso2.extension.siddhi.map.text:siddhi-map-text:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.extension.siddhi.map.text/siddhi-map-text/1.0.2/1d5603571698da89f8c2dea9484ab4c401c78ecc/siddhi-map-text-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.extension.siddhi.map.text/siddhi-map-text/1.0.2/6498bc4129e147d4c84a1f7fd51959b1e4c34dd/siddhi-map-text-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.extension.siddhi.map.text/siddhi-map-text/1.0.2/ccd739cb88c3d234f4b77054d3e28d5863b2c671/siddhi-map-text-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

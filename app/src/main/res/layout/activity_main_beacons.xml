@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:layout_margin="100dp"
+    tools:context=".virtualbeacons.MainActivity">
+
+        <Button
+            android:id="@+id/startBtn"
+            android:layout_width="match_parent"
+            android:layout_weight="0.5"
+            android:background="@color/colorAccent"
+            android:text="Scan"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:layout_marginBottom="5dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/stopBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:background="@color/colorAccent"
+            android:text="Transmit"
+            android:textColor="#FFFFFF"
+            android:visibility="gone"
+            android:textSize="15sp" />
+
+
+
+</LinearLayout>

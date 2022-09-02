@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wso2.siddhi:siddhi-query-compiler:4.0.0-M86">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.siddhi/siddhi-query-compiler/4.0.0-M86/d540e179eac31cd6202403bb7d8327e37e0242a7/siddhi-query-compiler-4.0.0-M86.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.siddhi/siddhi-query-compiler/4.0.0-M86/6ad075313066b5c13abef212bf47bc444af3be61/siddhi-query-compiler-4.0.0-M86-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wso2.siddhi:siddhi-core:4.0.0-M86">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.siddhi/siddhi-core/4.0.0-M86/72d838e9080353e7148e2a91e2694202b07db808/siddhi-core-4.0.0-M86.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.siddhi/siddhi-core/4.0.0-M86/134fadeb5e3c0917944070396e2fbd8c05c0d9c3/siddhi-core-4.0.0-M86-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.siddhi/siddhi-core/4.0.0-M86/91878a182828714082b4cbdf0047a78dc80f369c/siddhi-core-4.0.0-M86-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

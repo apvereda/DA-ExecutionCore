@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wso2.extension.siddhi.map.keyvalue:siddhi-map-keyvalue:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.extension.siddhi.map.keyvalue/siddhi-map-keyvalue/1.0.1/6da17b95fb48370031b7bd163e4622390ff1c666/siddhi-map-keyvalue-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wso2.extension.siddhi.map.keyvalue/siddhi-map-keyvalue/1.0.1/92ee0cfa11bcf9c673a563fca939c8bb3db277b/siddhi-map-keyvalue-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
